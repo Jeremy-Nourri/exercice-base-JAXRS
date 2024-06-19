@@ -32,3 +32,17 @@ Q.idea/sonarlint/securityhotspotstore/2/d/2db6491e5e058ab3f017baf44f790aa32add76
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
+^
+.src/main/java/org/example/jaxrs/model/Car.java,c\8\c8ce52696224843292a7db992c0168b3c4b0d9ec
+g
+7src/main/java/org/example/jaxrs/service/CarService.java,6\9\6920d8bde71d9f1f63dce93b1bc647d381b8a3d4
+a
+1src/main/java/org/example/jaxrs/data/FakeBDD.java,6\f\6f25f5fed974555855c495602255f9cd3275aa37
+_
+/src/main/java/org/example/jaxrs/controller.java,6\3\63fb06fb9dacd2c9f54b62055c50b932978d9a20
+n
+>src/main/java/org/example/jaxrs/controller/CarApplication.java,2\a\2af7c363c0f4e997877efbfa703c6d02b4b3ce9d
+k
+;src/main/java/org/example/jaxrs/controller/CarResource.java,3\3\330b9c3a8819bfb966b2c3b9b560f0c54092dd44
+m
+=src/main/java/org/example/jaxrs/controller/CarController.java,7\b\7be33873015a81c25df6e2cc18698e51baf117b0

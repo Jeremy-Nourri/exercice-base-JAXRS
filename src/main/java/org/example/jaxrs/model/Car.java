@@ -1,4 +1,4 @@
-package org.example.jaxrs.entity;
+package org.example.jaxrs.model;
 
 public class Car {
     private int id;
@@ -13,6 +13,9 @@ public class Car {
         this.year = year;
         this.color = color;
     }
+
+    public Car() {}
+
 
     public int getId() {
         return id;
